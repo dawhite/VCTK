@@ -1,49 +1,56 @@
-Symbol;SDR/EDR/ARP;Product Name;GSD;Rad;Rad Scale;Ref;Ref Scale;Temp;Temp Scale;Wavelength;FWHM;Rad Units;Rad Fill;Ref Fill;Temp Fill;Level;Sparse;Datasets;Dataset Factors;Dataset Fill
-SVDNB;VIIRS-DNB-SDR;VIIRS Day Night Band SDR;750;1;0;0;0;0;0;0.7;0.4;W/(cm2 sr);-999;0;0;1;0;None;None;None
-SVI01;VIIRS-I1-SDR;VIIRS Imagery Band 01 SDR;375;1;1;1;1;0;0;0.64;0.08;W/(m2 sr micron);65528;65528;0;1;0;None;None;None
-SVI02;VIIRS-I2-SDR;VIIRS Imagery Band 02 SDR;375;1;1;1;1;0;0;0.865;0.039;W/(m2 sr micron);65528;65528;0;1;0;None;None;None
-SVI03;VIIRS-I3-SDR;VIIRS Imagery Band 03 SDR;375;1;1;1;1;0;0;1.61;0.06;W/(m2 sr micron);65528;65528;0;1;0;None;None;None
-SVI04;VIIRS-I4-SDR;VIIRS Imagery Band 04 SDR;375;1;1;0;0;1;1;3.74;0.38;W/(m2 sr micron);65528;0;65528;1;0;None;None;None
-SVI05;VIIRS-I5-SDR;VIIRS Imagery Band 05 SDR;375;1;1;0;0;1;1;11.45;1.9;W/(m2 sr micron);65528;0;65528;1;0;None;None;None
-SVM01;VIIRS-M1-SDR;VIIRS Moderate Resolution Band 01 SDR;750;1;1;1;1;0;0;0.412;0.02;W/(m2 sr micron);65528;65528;0;1;0;None;None;None
-SVM02;VIIRS-M2-SDR;VIIRS Moderate Resolution Band 02 SDR;750;1;1;1;1;0;0;0.445;0.018;W/(m2 sr micron);65528;65528;0;1;0;None;None;None
-SVM03;VIIRS-M3-SDR;VIIRS Moderate Resolution Band 03 SDR;750;1;0;1;1;0;0;0.488;0.02;W/(m2 sr micron);-999;65528;0;1;0;None;None;None
-SVM04;VIIRS-M4-SDR;VIIRS Moderate Resolution Band 04 SDR;750;1;0;1;1;0;0;0.555;0.02;W/(m2 sr micron);-999;65528;0;1;0;None;None;None
-SVM05;VIIRS-M5-SDR;VIIRS Moderate Resolution Band 05 SDR;750;1;0;1;1;0;0;0.672;0.02;W/(m2 sr micron);-999;65528;0;1;0;None;None;None
-SVM06;VIIRS-M6-SDR;VIIRS Moderate Resolution Band 06 SDR;750;1;1;1;1;0;0;0.746;0.015;W/(m2 sr micron);65528;65528;0;1;0;None;None;None
-SVM07;VIIRS-M7-SDR;VIIRS Moderate Resolution Band 07 SDR;750;1;0;1;1;0;0;0.865;0.039;W/(m2 sr micron);-999;65528;0;1;0;None;None;None
-SVM08;VIIRS-M8-SDR;VIIRS Moderate Resolution Band 08 SDR;750;1;1;1;1;0;0;1.24;0.02;W/(m2 sr micron);65528;65528;0;1;0;None;None;None
-SVM09;VIIRS-M9-SDR;VIIRS Moderate Resolution Band 09 SDR;750;1;1;1;1;0;0;1.378;0.015;W/(m2 sr micron);65528;65528;0;1;0;None;None;None
-SVM10;VIIRS-M10-SDR;VIIRS Moderate Resolution Band 10 SDR;750;1;1;1;1;0;0;1.61;0.06;W/(m2 sr micron);65528;65528;0;1;0;None;None;None
-SVM11;VIIRS-M11-SDR;VIIRS Moderate Resolution Band 11 SDR;750;1;1;1;1;0;0;2.25;0.05;W/(m2 sr micron);65528;65528;0;1;0;None;None;None
-SVM12;VIIRS-M12-SDR;VIIRS Moderate Resolution Band 12 SDR;750;1;1;0;0;1;1;3.7;0.18;W/(m2 sr micron);65528;0;65528;1;0;None;None;None
-SVM13;VIIRS-M13-SDR;VIIRS Moderate Resolution Band 13 SDR;750;1;0;0;0;1;0;4.05;0.155;W/(m2 sr micron);-999;0;-999;1;0;None;None;None
-SVM14;VIIRS-M14-SDR;VIIRS Moderate Resolution Band 14 SDR;750;1;1;0;0;1;1;8.55;0.3;W/(m2 sr micron);65528;0;65528;1;0;None;None;None
-SVM15;VIIRS-M15-SDR;VIIRS Moderate Resolution Band 15 SDR;750;1;1;0;0;1;1;10.763;1;W/(m2 sr micron);65528;0;65528;1;0;None;None;None
-SVM16;VIIRS-M16-SDR;VIIRS Moderate Resolution Band 16 SDR;750;1;1;0;0;1;1;12.013;0.95;W/(m2 sr micron);65528;0;65528;1;0;None;None;None
-VI1BO;VIIRS-I1-IMG-EDR;VIIRS Imagery Band 01 EDR;375;1;1;1;1;0;0;0.64;0.08;W/(m2 sr micron);65528;65528;0;1;0;None;None;None
-VI2BO;VIIRS-I2-IMG-EDR;VIIRS Imagery Band 02 EDR;375;1;1;1;1;0;0;0.865;0.039;W/(m2 sr micron);65528;65528;0;1;0;None;None;None
-VI3BO;VIIRS-I3-IMG-EDR;VIIRS Imagery Band 03 EDR;375;1;1;1;1;0;0;1.61;0.06;W/(m2 sr micron);65528;65528;0;1;0;None;None;None
-VI4BO;VIIRS-I4-IMG-EDR;VIIRS Imagery Band 04 EDR;375;1;1;0;0;1;1;3.74;0.38;W/(m2 sr micron);65528;0;65528;1;0;None;None;None
-VI5BO;VIIRS-I5-IMG-EDR;VIIRS Imagery Band 05 EDR;375;1;1;0;0;1;1;11.45;1.9;W/(m2 sr micron);65528;0;65528;1;0;None;None;None
-VAOOO;VIIRS-AEROS-EDR;VIIRS Aerosol Optical Thickness (AOT) EDR;6000;0;0;0;0;0;0;0;0;None;0;0;0;2;1;AerosolOpticalDepth,AngstromExponent;AerosolOpticalDepthFactors,AngstromExponentFactors;[]65532:65533,[]65532:65533
-VLSTO;VIIRS-LST-EDR;VIIRS Land Surface Temperature EDR;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;LandSurfaceTemperature;LSTFactors;[]65532:65533
-VNCCO;VIIRS-NCC-EDR;VIIRS Near Constant Contrast Imagery EDR;750;0;0;0;0;0;0;0;0;None;0;0;0;3;0;Albedo;AlbedoFactors;==65535
-VOCCO;VIIRS-OCC-EDR;VIIRS Ocean Color/Chlorophyll EDR;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;Chlorophyll_a,IOP_a,IOP_s,nLw;None,None,None,None;<=-999,<=-999,<=-999,<=-999
-VSSTO;VIIRS-SST-EDR;VIIRS Sea Surface Temperature EDR;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;BulkSST,SkinSST;BulkSSTFactors,SkinSSTFactors;[]65532:65533,[]65532:65533
-VSTYO;VIIRS-ST-EDR;VIIRS Surface Type EDR;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;SurfaceType,VegetationFraction;None,VegetationFractionFactors;[]252:255,[]252:255
-VIVIO;VIIRS-VI-EDR;VIIRS Vegetation Index EDR;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;TOA_NDVI,TOA_EVI;TOA_NDVI_Factors,TOA_EVI_Factors;[]65532:65533,[]65532:65533
-AVAFO;VIIRS-AF-EDR;VIIRS Active Fires ARP;750;0;0;0;0;0;0;0;0;None;0;0;0;5;1;None;None;==0
-IICMO;VIIRS-CM-IP;VIIRS Cloud Mask Intermediate Product;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;QF1_VIIRSCMIP,QF2_VIIRSCMIP,QF3_VIIRSCMIP,QF4_VIIRSCMIP,QF5_VIIRSCMIP,QF6_VIIRSCMIP;None,None,None,None,None,None;==0,==0,==0,==0,==0,==0
-VISTO;VIIRS-IST-EDR;VIIRS Ice Surface Temperature EDR;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;IceSurfaceTemperature;ISTFactors;[]65532:65533
-VSCDO;VIIRS-SCD-BINARY-SNOW-FRAC-EDR;VIIRS Snow Cover/Depth Snow Fraction EDR;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;SnowCoverFraction;SnowCoverFractionFactors;[]65532:65533
-VSICO;VIIRS-SIC-EDR;VIIRS Sea Ice Characterization EDR;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;IceAge,IceAgeWeight;None,None;[]252:253,<=-999
-VSUMO;VIIRS-SusMat-EDR;VIIRS Suspended Matter EDR;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;SmokeConcentration,SuspendedMatterType;SmokeConcentrationFactors,None;[]65532:65533,[]252:253
-VSCMO;VIIRS-SCD-BINARY-SNOW-MAP-EDR;VIIRS Snow Cover/Depth Binary Map EDR;375;0;0;0;0;0;0;0;0;None;0;0;0;2;1;SnowCoverBinaryMap;None;[]252:253
-VCBHO;VIIRS-CBH-EDR;VIIRS Cloud Base Height EDR;6000;0;0;0;0;0;0;0;0;None;0;0;0;2;1;AverageCloudBaseHeight;CBHFactors;[]65532:65533
-VCCLO;VIIRS-CCL-EDR;VIIRS Cloud Cover Layers EDR;6000;0;0;0;0;0;0;0;0;None;0;0;0;2;1;SummedCloudCover;CCLFactors;[]65532:65533
-VCEPO;VIIRS-CEPS-EDR;VIIRS Cloud Effective Particle Size EDR;6000;0;0;0;0;0;0;0;0;None;0;0;0;2;1;AverageCloudEffectiveParticleSize;CEPSFactors;[]65532:65533
-VCOTO;VIIRS-COT-EDR;VIIRS Cloud Optical Thickness EDR;6000;0;0;0;0;0;0;0;0;None;0;0;0;2;1;AverageCloudOpticalThickness;COTFactors;[]65532:65533
-VCTHO;VIIRS-CTH-EDR;VIIRS Cloud Top Height EDR;6000;0;0;0;0;0;0;0;0;None;0;0;0;2;1;AverageCloudTopHeight;CTHFactors;[]65532:65533
-VCTPO;VIIRS-CTP-EDR;VIIRS Cloud Top Pressure EDR;6000;0;0;0;0;0;0;0;0;None;0;0;0;2;1;AverageCloudTopPressure;CTPFactors;[]65532:65533
-VCTTO;VIIRS-CTT-EDR;VIIRS Cloud Top Temperature EDR;6000;0;0;0;0;0;0;0;0;None;0;0;0;2;1;AverageCloudTopTemperature;CTTFactors;[]65532:65533
+Symbol;SDR/EDR/ARP;Product Name;GSD;Rad;Rad Scale;Ref;Ref Scale;Temp;Temp Scale;Wavelength;FWHM;Rad Units;Rad Fill;Ref Fill;Temp Fill;Level;Sparse;Datasets;Dataset Factors;Dataset Fill;Geolocation
+SVDNB;VIIRS-DNB-SDR;VIIRS Day Night Band SDR;750;1;0;0;0;0;0;0.7;0.4;W/(cm2 sr);-999;0;0;1;0;None;None;None;0
+SVI01;VIIRS-I1-SDR;VIIRS Imagery Band 01 SDR;375;1;1;1;1;0;0;0.64;0.08;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
+SVI02;VIIRS-I2-SDR;VIIRS Imagery Band 02 SDR;375;1;1;1;1;0;0;0.865;0.039;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
+SVI03;VIIRS-I3-SDR;VIIRS Imagery Band 03 SDR;375;1;1;1;1;0;0;1.61;0.06;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
+SVI04;VIIRS-I4-SDR;VIIRS Imagery Band 04 SDR;375;1;1;0;0;1;1;3.74;0.38;W/(m2 sr micron);65528;0;65528;1;0;None;None;None;0
+SVI05;VIIRS-I5-SDR;VIIRS Imagery Band 05 SDR;375;1;1;0;0;1;1;11.45;1.9;W/(m2 sr micron);65528;0;65528;1;0;None;None;None;0
+SVM01;VIIRS-M1-SDR;VIIRS Moderate Resolution Band 01 SDR;750;1;1;1;1;0;0;0.412;0.02;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
+SVM02;VIIRS-M2-SDR;VIIRS Moderate Resolution Band 02 SDR;750;1;1;1;1;0;0;0.445;0.018;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
+SVM03;VIIRS-M3-SDR;VIIRS Moderate Resolution Band 03 SDR;750;1;0;1;1;0;0;0.488;0.02;W/(m2 sr micron);-999;65528;0;1;0;None;None;None;0
+SVM04;VIIRS-M4-SDR;VIIRS Moderate Resolution Band 04 SDR;750;1;0;1;1;0;0;0.555;0.02;W/(m2 sr micron);-999;65528;0;1;0;None;None;None;0
+SVM05;VIIRS-M5-SDR;VIIRS Moderate Resolution Band 05 SDR;750;1;0;1;1;0;0;0.672;0.02;W/(m2 sr micron);-999;65528;0;1;0;None;None;None;0
+SVM06;VIIRS-M6-SDR;VIIRS Moderate Resolution Band 06 SDR;750;1;1;1;1;0;0;0.746;0.015;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
+SVM07;VIIRS-M7-SDR;VIIRS Moderate Resolution Band 07 SDR;750;1;0;1;1;0;0;0.865;0.039;W/(m2 sr micron);-999;65528;0;1;0;None;None;None;0
+SVM08;VIIRS-M8-SDR;VIIRS Moderate Resolution Band 08 SDR;750;1;1;1;1;0;0;1.24;0.02;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
+SVM09;VIIRS-M9-SDR;VIIRS Moderate Resolution Band 09 SDR;750;1;1;1;1;0;0;1.378;0.015;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
+SVM10;VIIRS-M10-SDR;VIIRS Moderate Resolution Band 10 SDR;750;1;1;1;1;0;0;1.61;0.06;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
+SVM11;VIIRS-M11-SDR;VIIRS Moderate Resolution Band 11 SDR;750;1;1;1;1;0;0;2.25;0.05;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
+SVM12;VIIRS-M12-SDR;VIIRS Moderate Resolution Band 12 SDR;750;1;1;0;0;1;1;3.7;0.18;W/(m2 sr micron);65528;0;65528;1;0;None;None;None;0
+SVM13;VIIRS-M13-SDR;VIIRS Moderate Resolution Band 13 SDR;750;1;0;0;0;1;0;4.05;0.155;W/(m2 sr micron);-999;0;-999;1;0;None;None;None;0
+SVM14;VIIRS-M14-SDR;VIIRS Moderate Resolution Band 14 SDR;750;1;1;0;0;1;1;8.55;0.3;W/(m2 sr micron);65528;0;65528;1;0;None;None;None;0
+SVM15;VIIRS-M15-SDR;VIIRS Moderate Resolution Band 15 SDR;750;1;1;0;0;1;1;10.763;1;W/(m2 sr micron);65528;0;65528;1;0;None;None;None;0
+SVM16;VIIRS-M16-SDR;VIIRS Moderate Resolution Band 16 SDR;750;1;1;0;0;1;1;12.013;0.95;W/(m2 sr micron);65528;0;65528;1;0;None;None;None;0
+VI1BO;VIIRS-I1-IMG-EDR;VIIRS Imagery Band 01 EDR;375;1;1;1;1;0;0;0.64;0.08;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
+VI2BO;VIIRS-I2-IMG-EDR;VIIRS Imagery Band 02 EDR;375;1;1;1;1;0;0;0.865;0.039;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
+VI3BO;VIIRS-I3-IMG-EDR;VIIRS Imagery Band 03 EDR;375;1;1;1;1;0;0;1.61;0.06;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
+VI4BO;VIIRS-I4-IMG-EDR;VIIRS Imagery Band 04 EDR;375;1;1;0;0;1;1;3.74;0.38;W/(m2 sr micron);65528;0;65528;1;0;None;None;None;0
+VI5BO;VIIRS-I5-IMG-EDR;VIIRS Imagery Band 05 EDR;375;1;1;0;0;1;1;11.45;1.9;W/(m2 sr micron);65528;0;65528;1;0;None;None;None;0
+VAOOO;VIIRS-AEROS-EDR;VIIRS Aerosol Optical Thickness (AOT) EDR;6000;0;0;0;0;0;0;0;0;None;0;0;0;2;1;AerosolOpticalDepth,AngstromExponent;AerosolOpticalDepthFactors,AngstromExponentFactors;[]65532:65533,[]65532:65533;0
+VLSTO;VIIRS-LST-EDR;VIIRS Land Surface Temperature EDR;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;LandSurfaceTemperature;LSTFactors;[]65532:65533;0
+VNCCO;VIIRS-NCC-EDR;VIIRS Near Constant Contrast Imagery EDR;750;0;0;0;0;0;0;0;0;None;0;0;0;3;0;Albedo;AlbedoFactors;==65535;0
+VOCCO;VIIRS-OCC-EDR;VIIRS Ocean Color/Chlorophyll EDR;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;Chlorophyll_a,IOP_a,IOP_s,nLw;None,None,None,None;<=-999,<=-999,<=-999,<=-999;0
+VSSTO;VIIRS-SST-EDR;VIIRS Sea Surface Temperature EDR;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;BulkSST,SkinSST;BulkSSTFactors,SkinSSTFactors;[]65532:65533,[]65532:65533;0
+VSTYO;VIIRS-ST-EDR;VIIRS Surface Type EDR;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;SurfaceType,VegetationFraction;None,VegetationFractionFactors;[]252:255,[]252:255;0
+VIVIO;VIIRS-VI-EDR;VIIRS Vegetation Index EDR;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;TOA_NDVI,TOA_EVI;TOA_NDVI_Factors,TOA_EVI_Factors;[]65532:65533,[]65532:65533;0
+AVAFO;VIIRS-AF-EDR;VIIRS Active Fires ARP;750;0;0;0;0;0;0;0;0;None;0;0;0;5;1;None;None;==0;0
+IICMO;VIIRS-CM-IP;VIIRS Cloud Mask Intermediate Product;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;QF1_VIIRSCMIP,QF2_VIIRSCMIP,QF3_VIIRSCMIP,QF4_VIIRSCMIP,QF5_VIIRSCMIP,QF6_VIIRSCMIP;None,None,None,None,None,None;==0,==0,==0,==0,==0,==0;0
+VISTO;VIIRS-IST-EDR;VIIRS Ice Surface Temperature EDR;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;IceSurfaceTemperature;ISTFactors;[]65532:65533;0
+VSCDO;VIIRS-SCD-BINARY-SNOW-FRAC-EDR;VIIRS Snow Cover/Depth Snow Fraction EDR;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;SnowCoverFraction;SnowCoverFractionFactors;[]65532:65533;0
+VSICO;VIIRS-SIC-EDR;VIIRS Sea Ice Characterization EDR;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;IceAge,IceAgeWeight;None,None;[]252:253,<=-999;0
+VSUMO;VIIRS-SusMat-EDR;VIIRS Suspended Matter EDR;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;SmokeConcentration,SuspendedMatterType;SmokeConcentrationFactors,None;[]65532:65533,[]252:253;0
+VSCMO;VIIRS-SCD-BINARY-SNOW-MAP-EDR;VIIRS Snow Cover/Depth Binary Map EDR;375;0;0;0;0;0;0;0;0;None;0;0;0;2;1;SnowCoverBinaryMap;None;[]252:253;0
+VCBHO;VIIRS-CBH-EDR;VIIRS Cloud Base Height EDR;6000;0;0;0;0;0;0;0;0;None;0;0;0;2;1;AverageCloudBaseHeight;CBHFactors;[]65532:65533;0
+VCCLO;VIIRS-CCL-EDR;VIIRS Cloud Cover Layers EDR;6000;0;0;0;0;0;0;0;0;None;0;0;0;2;1;SummedCloudCover;CCLFactors;[]65532:65533;0
+VCEPO;VIIRS-CEPS-EDR;VIIRS Cloud Effective Particle Size EDR;6000;0;0;0;0;0;0;0;0;None;0;0;0;2;1;AverageCloudEffectiveParticleSize;CEPSFactors;[]65532:65533;0
+VCOTO;VIIRS-COT-EDR;VIIRS Cloud Optical Thickness EDR;6000;0;0;0;0;0;0;0;0;None;0;0;0;2;1;AverageCloudOpticalThickness;COTFactors;[]65532:65533;0
+VCTHO;VIIRS-CTH-EDR;VIIRS Cloud Top Height EDR;6000;0;0;0;0;0;0;0;0;None;0;0;0;2;1;AverageCloudTopHeight;CTHFactors;[]65532:65533;0
+VCTPO;VIIRS-CTP-EDR;VIIRS Cloud Top Pressure EDR;6000;0;0;0;0;0;0;0;0;None;0;0;0;2;1;AverageCloudTopPressure;CTPFactors;[]65532:65533;0
+VCTTO;VIIRS-CTT-EDR;VIIRS Cloud Top Temperature EDR;6000;0;0;0;0;0;0;0;0;None;0;0;0;2;1;AverageCloudTopTemperature;CTTFactors;[]65532:65533;0
+GIGTO;VIIRS-IMG-GTM-EDR-GEO;VIIRS Image Bands EDR GTM Geolocation;375;0;0;0;0;0;0;0;0;None;0;0;0;3;0;Height,SatelliteAzimuthAngle,SatelliteRange,SatelliteZenithAngle,SolarAzimuthAngle,SolarZenithAngle;None,None,None,None,None,None;<=-990,<=-999,<=-999,<=-999,<=-999,<=-999;1
+GIMGO;VIIRS-IMG-GEO;VIIRS Image Bands SDR Ellipsoid Geolocation;375;0;0;0;0;0;0;0;0;None;0;0;0;2;0;Height,SatelliteAzimuthAngle,SatelliteRange,SatelliteZenithAngle,SolarAzimuthAngle,SolarZenithAngle;None,None,None,None,None,None;<=-990,<=-999,<=-999,<=-999,<=-999,<=-999;1
+GAERO;VIIRS-Aeros-EDR-GEO;VIIRS Aerosol (aggregated) EDR Ellipsoid Geolocation;6000;0;0;0;0;0;0;0;0;None;0;0;0;2;0;Height,SatelliteAzimuthAngle,SatelliteRange,SatelliteZenithAngle,SolarAzimuthAngle,SolarZenithAngle;None,None,None,None,None,None;<=-990,<=-999,<=-999,<=-999,<=-999,<=-999;1
+GMTCO;VIIRS-MOD-GEO-TC;VIIRS Moderate Bands SDR Terrain Corrected Geolocation;750;0;0;0;0;0;0;0;0;None;0;0;0;2;0;Height,SatelliteAzimuthAngle,SatelliteRange,SatelliteZenithAngle,SolarAzimuthAngle,SolarZenithAngle;None,None,None,None,None,None;<=-990,<=-999,<=-999,<=-999,<=-999,<=-999;1
+GMODO;VIIRS-MOD-GEO;VIIRS Moderate Bands SDR Geolocation;750;0;0;0;0;0;0;0;0;None;0;0;0;2;0;Height,SatelliteAzimuthAngle,SatelliteRange,SatelliteZenithAngle,SolarAzimuthAngle,SolarZenithAngle;None,None,None,None,None,None;<=-990,<=-999,<=-999,<=-999,<=-999,<=-999;1
+GDNBO;VIIRS-DNB-GEO;VIIRS Day Night Band SDR Ellipsoid Geolocation;750;0;0;0;0;0;0;0;0;None;0;0;0;2;0;Height,SatelliteAzimuthAngle,SatelliteRange,SatelliteZenithAngle,SolarAzimuthAngle,SolarZenithAngle;None,None,None,None,None,None;<=-990,<=-999,<=-999,<=-999,<=-999,<=-999;1
+GITCO;VIIRS-IMG-GEO-TC;VIIRS Image Bands SDR Ellipsoid Terrain Corrected Geolocation;375;0;0;0;0;0;0;0;0;None;0;0;0;2;0;Height,SatelliteAzimuthAngle,SatelliteRange,SatelliteZenithAngle,SolarAzimuthAngle,SolarZenithAngle;None,None,None,None,None,None;<=-990,<=-999,<=-999,<=-999,<=-999,<=-999;1
