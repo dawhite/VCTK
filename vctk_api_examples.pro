@@ -22,6 +22,31 @@ pro vctk_single_file_example
 end
 
 
+pro vctk_single_file_example_with_specific_datasets
+  compile_opt idl2
+
+  file = 'C:\Users\Devin White\Desktop\Sandbox\VIIRS\sst\GMTCO-VSSTO_npp_d20120331_t2357384_e0003188_b02208_c20150412135022355714_noaa_ops.h5'
+  out_root = 'test_output'
+  out_path = 'C:\Users\Devin White\Desktop\Sandbox\VIIRS\sst\'
+
+  ;retrieve only Bulk SST and Solar Zenith Angle from the file
+  datasets = ['BulkSST','SolarZenithAngle']
+
+  proj = envi_proj_create(/geographic)
+
+  bridges = vctk_create_bridges()
+
+  viirs_convert_data, file=file, out_root=out_root, out_path=out_path, georef=1, msg=msg, $
+    proj=proj, geo_fid=geo_fid, resamp=1, /progress, bridges=bridges, datasets=datasets
+
+  vctk_destroy_bridges, bridges
+
+  ;if conversion failed, find out why
+  if geo_fid eq -1 then print, msg
+
+end
+
+
 pro vctk_single_file_example_with_external_geo
   compile_opt idl2
 
