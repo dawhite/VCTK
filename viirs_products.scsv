@@ -10,10 +10,11 @@ GMODO;VIIRS-MOD-GEO;VIIRS Moderate Bands SDR Geolocation;750;0;0;0;0;0;0;0;0;Non
 GMTCO;VIIRS-MOD-GEO-TC;VIIRS Moderate Bands SDR Terrain Corrected Geolocation;750;0;0;0;0;0;0;0;0;None;0;0;0;2;0;Height,SatelliteAzimuthAngle,SatelliteRange,SatelliteZenithAngle,SolarAzimuthAngle,SolarZenithAngle;None,None,None,None,None,None;<=-990,<=-999,<=-999,<=-999,<=-999,<=-999;1
 GNCCO;VIIRS-NCC-EDR-GEO;VIIRS Near Constant Contrast Imagery EDR Ellipsoid Geolocation;750;0;0;0;0;0;0;0;0;None;0;0;0;2;0;Height,SatelliteAzimuthAngle,SatelliteRange,SatelliteZenithAngle,SolarAzimuthAngle,SolarZenithAngle;None,None,None,None,None,None;<=-990,<=-999,<=-999,<=-999,<=-999,<=-999;1
 IICMO;VIIRS-CM-IP;VIIRS Cloud Mask Intermediate Product;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;QF1_VIIRSCMIP,QF2_VIIRSCMIP,QF3_VIIRSCMIP,QF4_VIIRSCMIP,QF5_VIIRSCMIP,QF6_VIIRSCMIP;None,None,None,None,None,None;==0,==0,==0,==0,==0,==0;0
-IVAMI;VIIRS-AEROS-MODL-INFO-IP;VIIRS Aerosol Model Information;750;0;0;0;0;0;0;0;0;None;0;0;0;2;0;amdl,combo,lgmdl,smmdl;None,None,None,None;[]252:253,[]252:253,[]252:253,[]252:253;0
-IVAOT;VIIRS-AEROS-OPT-THICK-IP;VIIRS Aerosol Optical Thickness;750;0;0;0;0;0;0;0;0;None;0;0;0;2;0;QF1,QF2,QF3,QF4,QF5,angexp,aotSlant550,faot550;None,None,None,None,None,None,None,None;==3,==0,==0,==0,==0,<=-999,<=-999,<=-999;0
-IVIIC;VIIRS-I-CONC-IP;VIIRS Ice Concentration;750;0;0;0;0;0;0;0;0;None;0;0;0;2;0;iceConcWeights,iceFraction;None,None;<=-999,<=-999;0
-IVISR;VIIRS-SURF-REFL-IP;VIIRS Surface Reflectance;750;0;0;0;0;0;0;0;0;None;0;0;0;2;0;QF1_VIIRSSRIPSDR,QF2_VIIRSSRIPSDR,QF3_VIIRSSRIPSDR,QF4_VIIRSSRIPSDR,QF5_VIIRSSRIPSDR,QF6_VIIRSSRIPSDR,QF7_VIIRSSRIPSDR,i1,i2,i3,m1,m2,m3,m4,m5,m7,m8,m10,m11;None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None;==0,==0,==0,==0,==0,==0,==0,<=-999,<=-999,<=-999,<=-999,<=-999,<=-999,<=-999,<=-999,<=-999,<=-999,<=-999,<=-999;0
+IVPCM;VIIRS-PARX-CORR-CM-IP;VIIRS Parallax Corrected Cloud Mask Intermediate Product;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;QF1_VIIRSCMIP,QF2_VIIRSCMIP,QF3_VIIRSCMIP,QF4_VIIRSCMIP,QF5_VIIRSCMIP,QF6_VIIRSCMIP;None,None,None,None,None,None;==0,==0,==0,==0,==0,==0;0
+IVAMI;VIIRS-AEROS-MODL-INFO-IP;VIIRS Aerosol Model Information;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;amdl,combo,lgmdl,smmdl;None,None,None,None;[]252:253,[]252:253,[]252:253,[]252:253;0
+IVAOT;VIIRS-AEROS-OPT-THICK-IP;VIIRS Aerosol Optical Thickness;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;QF1,QF2,QF3,QF4,QF5,angexp,aotSlant550,faot550;None,None,None,None,None,None,None,None;==3,==0,==0,==0,==0,<=-999,<=-999,<=-999;0
+IVIIC;VIIRS-I-CONC-IP;VIIRS Ice Concentration;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;iceConcWeights,iceFraction;None,None;<=-999,<=-999;0
+IVISR;VIIRS-SURF-REFL-IP;VIIRS Surface Reflectance;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;QF1_VIIRSSRIPSDR,QF2_VIIRSSRIPSDR,QF3_VIIRSSRIPSDR,QF4_VIIRSSRIPSDR,QF5_VIIRSSRIPSDR,QF6_VIIRSSRIPSDR,QF7_VIIRSSRIPSDR,i1,i2,i3,m1,m2,m3,m4,m5,m7,m8,m10,m11;None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None;==0,==0,==0,==0,==0,==0,==0,<=-999,<=-999,<=-999,<=-999,<=-999,<=-999,<=-999,<=-999,<=-999,<=-999,<=-999,<=-999;0
 SVDNB;VIIRS-DNB-SDR;VIIRS Day Night Band SDR;750;1;0;0;0;0;0;0.7;0.4;W/(cm2 sr);-999;0;0;1;0;None;None;None;0
 SVI01;VIIRS-I1-SDR;VIIRS Imagery Band 01 SDR;375;1;1;1;1;0;0;0.64;0.08;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
 SVI02;VIIRS-I2-SDR;VIIRS Imagery Band 02 SDR;375;1;1;1;1;0;0;0.865;0.039;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
@@ -40,6 +41,7 @@ VAOOO;VIIRS-AEROS-EDR;VIIRS Aerosol Optical Thickness (AOT) EDR;6000;0;0;0;0;0;0
 VCBHO;VIIRS-CBH-EDR;VIIRS Cloud Base Height EDR;6000;0;0;0;0;0;0;0;0;None;0;0;0;2;1;AverageCloudBaseHeight;CBHFactors;[]65532:65533;0
 VCCLO;VIIRS-CCL-EDR;VIIRS Cloud Cover Layers EDR;6000;0;0;0;0;0;0;0;0;None;0;0;0;2;1;SummedCloudCover;CCLFactors;[]65532:65533;0
 VCEPO;VIIRS-CEPS-EDR;VIIRS Cloud Effective Particle Size EDR;6000;0;0;0;0;0;0;0;0;None;0;0;0;2;1;AverageCloudEffectiveParticleSize;CEPSFactors;[]65532:65533;0
+VICMO;VIIRS-CM-EDR;VIIRS Cloud Mask EDR;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;QF1_VIIRSCMEDR,QF2_VIIRSCMEDR,QF3_VIIRSCMEDR,QF4_VIIRSCMEDR,QF5_VIIRSCMEDR,QF6_VIIRSCMEDR;None,None,None,None,None,None;==0,==0,==0,==0,==0,==0;0
 VCOTO;VIIRS-COT-EDR;VIIRS Cloud Optical Thickness EDR;6000;0;0;0;0;0;0;0;0;None;0;0;0;2;1;AverageCloudOpticalThickness;COTFactors;[]65532:65533;0
 VCTHO;VIIRS-CTH-EDR;VIIRS Cloud Top Height EDR;6000;0;0;0;0;0;0;0;0;None;0;0;0;2;1;AverageCloudTopHeight;CTHFactors;[]65532:65533;0
 VCTPO;VIIRS-CTP-EDR;VIIRS Cloud Top Pressure EDR;6000;0;0;0;0;0;0;0;0;None;0;0;0;2;1;AverageCloudTopPressure;CTPFactors;[]65532:65533;0
