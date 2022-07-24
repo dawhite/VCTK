@@ -63,3 +63,20 @@ VSSTO;VIIRS-SST-EDR;VIIRS Sea Surface Temperature EDR;750;0;0;0;0;0;0;0;0;None;0
 VSTYO;VIIRS-ST-EDR;VIIRS Surface Type EDR;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;SurfaceType,VegetationFraction;None,VegetationFractionFactors;[]252:255,[]252:255;0
 VSUMO;VIIRS-SusMat-EDR;VIIRS Suspended Matter EDR;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;SmokeConcentration,SuspendedMatterType;SmokeConcentrationFactors,None;[]65532:65533,[]252:253;0
 VISAO;VIIRS-SA-EDR;VIIRS Surface Albedo EDR;750;0;0;0;0;0;0;0;0;None;0;0;0;2;1;Albedo,QF1_VIIRSSAEDR,QF2_VIIRSSAEDR,QF3_VIIRSSAEDR;AlbedoFactors,None,None,None;[]65532:65533,==0,==24,==0;0
+GMGTO;VIIRS-MOD-GTM-EDR-GEO;VIIRS M-Bands EDR GTM Geolocation;750;0;0;0;0;0;0;0;0;None;0;0;0;3;0;Height,SatelliteAzimuthAngle,SatelliteRange,SatelliteZenithAngle,SolarAzimuthAngle,SolarZenithAngle;None,None,None,None,None,None;<=-990,<=-999,<=-999,<=-999,<=-999,<=-999;1
+VM01O;VIIRS-M1-MOD-EDR;VIIRS M-Band 01 Imagery EDR;750;1;1;1;1;0;0;0.412;0.02;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
+VM02O;VIIRS-M2-MOD-EDR;VIIRS M-Band 02 Imagery EDR;750;1;1;1;1;0;0;0.445;0.018;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
+VM03O;VIIRS-M3-MOD-EDR;VIIRS M-Band 03 Imagery EDR;750;1;1;1;1;0;0;0.488;0.02;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
+VM04O;VIIRS-M4-MOD-EDR;VIIRS M-Band 04 Imagery EDR;750;1;1;1;1;0;0;0.555;0.02;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
+VM05O;VIIRS-M5-MOD-EDR;VIIRS M-Band 05 Imagery EDR;750;1;1;1;1;0;0;0.672;0.02;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
+VM06O;VIIRS-M6-MOD-EDR;VIIRS M-Band 06 Imagery EDR;750;1;1;1;1;0;0;0.746;0.015;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
+VM07O;VIIRS-M7-MOD-EDR;VIIRS M-Band 07 Imagery EDR;750;1;1;1;1;0;0;0.865;0.039;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
+VM08O;VIIRS-M8-MOD-EDR;VIIRS M-Band 08 Imagery EDR;750;1;1;1;1;0;0;1.24;0.02;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
+VM09O;VIIRS-M9-MOD-EDR;VIIRS M-Band 09 Imagery EDR;750;1;1;1;1;0;0;1.378;0.015;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
+VM10O;VIIRS-M10-MOD-EDR;VIIRS M-Band 10 Imagery EDR;750;1;1;1;1;0;0;1.61;0.06;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
+VM11O;VIIRS-M11-MOD-EDR;VIIRS M-Band 11 Imagery EDR;750;1;1;1;1;0;0;2.25;0.05;W/(m2 sr micron);65528;65528;0;1;0;None;None;None;0
+VM12O;VIIRS-M12-MOD-EDR;VIIRS M-Band 12 Imagery EDR;750;1;1;0;0;1;1;3.7;0.18;W/(m2 sr micron);65528;0;65528;1;0;None;None;None;0
+VM13O;VIIRS-M13-MOD-EDR;VIIRS M-Band 13 Imagery EDR;750;1;0;0;0;1;0;4.05;0.155;W/(m2 sr micron);-999;0;-999;1;0;None;None;None;0
+VM14O;VIIRS-M14-MOD-EDR;VIIRS M-Band 14 Imagery EDR;750;1;1;0;0;1;1;8.55;0.3;W/(m2 sr micron);65528;0;65528;1;0;None;None;None;0
+VM15O;VIIRS-M15-MOD-EDR;VIIRS M-Band 15 Imagery EDR;750;1;1;0;0;1;1;10.763;1;W/(m2 sr micron);65528;0;65528;1;0;None;None;None;0
+VM16O;VIIRS-M16-MOD-EDR;VIIRS M-Band 16 Imagery EDR;750;1;1;0;0;1;1;12.013;0.95;W/(m2 sr micron);65528;0;65528;1;0;None;None;None;0
